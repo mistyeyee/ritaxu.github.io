@@ -1,4 +1,0 @@
-baseURL = 'https://github.com/mistyeyee/ritaxu.github.io.git'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
